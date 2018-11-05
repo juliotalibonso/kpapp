@@ -13,8 +13,8 @@ switch ($route) {
         include '../app/view/about.php';
         break;
 
-    case '/profil':
-        include '../app/view/profil.php';
+    case '/login':
+        include '../app/view/login.php';
         break;
 
 
